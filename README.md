@@ -7,8 +7,8 @@ This is a straightforward 2-class prediction task aimed at detecting skin VS non
 - Utilizing confusion matrix results
 
 # Usage
-'''
+~~~
 git clone https://github.com/antisrdy/data-analysis-101.git
 cd data-analysis-101
-'''
+~~~
 No code to run; just double-click on the HTML file.
